@@ -1,1 +1,2 @@
-# lane
+# Lane
+Lane is an app that uses Computer Vision to monitor the environment behind a biker and when a car gets too close ( < 2 feet), the app alerts the user via text-to-speech. When this occurs, the app saves the clip along with the location for the user to look back upon later on. Our current prototype is designed to attach a phone to a biker's waist with a contraption, where the camera side is facing the back. 
